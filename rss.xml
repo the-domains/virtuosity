@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[virtuosity]]></title>
         <description><![CDATA[virtuosity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/virtuosity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 09:50:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 27 Oct 2015 10:01:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/virtuosity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Virtuosity by Greg Glassman]]></title>
+            <description><![CDATA[<article><h1>Virtuosity by Greg Glassman</h1><p>In this 2005 open letter to CrossFit trainers, Coach Greg Glassman discusses the importance of virtuosity, defined in gymnastics as "performing the common uncommonly well." Unlike risk and originality, virtuosity is elusive, supremely elusive. It is, however, readily recognized by audience as well as coach and athlete.</p><img src="http://journal.crossfit.com/images/thumbnails/handstand-armory.b52301cb.jpg"></article>]]></description>
+            <link>http://journal.crossfit.com/2005/08/virtuosity-1.tpl</link>
+            <guid isPermaLink="false">3d840d34-d5e1-41d1-ae7a-2745b26ffcb2</guid>
+            <pubDate>Tue, 27 Oct 2015 10:01:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Virtuosity]]></title>
             <description><![CDATA[<article><h1>Virtuosity</h1><p>What is Virtuosity - Doing the common, uncommonly well.</p></article>]]></description>
-            <link>undefinedvirtuosity/index.html</link>
+            <link>https://thegrid.ai/virtuosity/virtuosity/index.html</link>
             <guid isPermaLink="false">1c6df52f-bf8c-4360-87d6-9ec027d07786</guid>
             <pubDate>Tue, 27 Oct 2015 09:50:21 GMT</pubDate>
         </item>
