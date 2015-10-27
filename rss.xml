@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[virtuosity]]></title>
+        <description><![CDATA[virtuosity]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 27 Oct 2015 09:50:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Virtuosity]]></title>
+            <description><![CDATA[<article><h1>Virtuosity</h1><p>What is Virtuosity - Doing the common, uncommonly well.</p></article>]]></description>
+            <link>undefinedvirtuosity/index.html</link>
+            <guid isPermaLink="false">1c6df52f-bf8c-4360-87d6-9ec027d07786</guid>
+            <pubDate>Tue, 27 Oct 2015 09:50:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
