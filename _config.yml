@@ -1,0 +1,23 @@
+name: virtuosity
+favicon: null
+layout_spectrum: 0.40343932481482625
+typography_spectrum: 0.7439369498752058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.41471097455359995
+  lightness: 0.7623772623483092
+  saturation: 0.03268219740130007
+  rhythmicContrast: 0.7562222904525697
+purpose: []
